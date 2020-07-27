@@ -25,7 +25,20 @@ const images = [
   webClientFolder + '/src/img/bulma-type-white.png',
   webClientFolder + '/src/img/640x480.png',
   webClientFolder + '/src/img/android-chrome-192x192.png',
-  webClientFolder + '/src/img/android-chrome-512x512.png'
+  webClientFolder + '/src/img/android-chrome-512x512.png',
+  webClientFolder + '/src/img/1.jpg',
+  webClientFolder + '/src/img/2.jpg',
+  webClientFolder + '/src/img/3.jpg',
+  webClientFolder + '/src/img/4.jpg',
+  webClientFolder + '/src/img/5.jpg',
+  webClientFolder + '/src/img/6.jpg',
+  webClientFolder + '/src/img/6.png',
+  webClientFolder + '/src/img/7.jpg',
+  webClientFolder + '/src/img/8.jpg',
+  webClientFolder + '/src/img/9.jpg',
+  webClientFolder + '/src/img/10.jpg',  
+  webClientFolder + '/src/img/map.png',
+  webClientFolder + '/src/img/logo.png',
 ];
 
 const js = [
@@ -33,7 +46,9 @@ const js = [
 ];
 
 const css = [
-  webClientFolder + '/src/css/bulma.min.css'
+  webClientFolder + '/src/css/bulma.min.css',
+  webClientFolder + '/src/css/bulma-parallax.min.css',
+  webClientFolder + '/src/css/style.css'
 ];
 
 const assets = [
